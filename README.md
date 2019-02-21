@@ -1,2 +1,2 @@
-# Finaecon-2109s
-Financial economics 2019 Spring
+# FinancialEcon.github.io
+Homepage for 18Spring Financial Economics
